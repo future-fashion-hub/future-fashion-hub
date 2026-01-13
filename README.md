@@ -3,9 +3,7 @@
 <h1 align="center">Hi👋 My name is Danila!</h1>
 
 ###
-
 <h2 align="center">Web Developer from Moscow</h2>
-
 ###
 
 * 🌍  I'm based in Moscow
