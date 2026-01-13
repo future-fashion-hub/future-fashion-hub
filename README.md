@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋 My name is <a href="https://github.com/future-fashion-hub">Danila</a>!</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0000EE&center=true&vCenter=true&width=500&lines=Front-end+Developer+from+Moscow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&weight=600&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Front-end+Developer+from+Moscow" alt="Typing SVG" />
   </a>
 </div>
 
