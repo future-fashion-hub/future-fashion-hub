@@ -1,7 +1,7 @@
-<div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e) My name is Danila!</div>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e) My name is Danila!</h1>
 ===============================================================================================================================
 
-<div align="center">Web Developer from Moscow</div>
+<h2 align="center">Web Developer from Moscow</h2>
 -------------------------
 
 * 🌍  I'm based in Moscow
