@@ -1,3 +1,6 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=future-fashion-hub&&style=flat-square" align="center" />
+</div>  
 <h1 align="center">Hi👋 My name is Danila!</h1>
 <h2 align="center">Web Developer from Moscow</h2>
 
